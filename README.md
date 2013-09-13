@@ -1,5 +1,6 @@
 SpreeSimpleStock
 ================
+![alt tag](http://habrastorage.org/storage3/445/926/830/445926830061f7ad2207cce5b1a7e1dc.jpg)
 
 Introduction goes here.
 
